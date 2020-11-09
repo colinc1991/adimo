@@ -1,0 +1,23 @@
+{
+  "name": "adimo",
+  "version": "1.0.0",
+  "description": "Take-home test for Adimo technical interview. Initial template taken from: https://chrisoliver.github.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinc1991/adimo_take_home_test.git"
+  },
+  "author": "Colin Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinc1991/adimo_take_home_test/issues"
+  },
+  "homepage": "https://github.com/colinc1991/adimo_take_home_test#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
